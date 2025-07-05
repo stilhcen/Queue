@@ -62,3 +62,25 @@ Clone the repository:
 git clone https://github.com/stilhcen/Queue
 cd Queue
 
+Install the dependencies:
+
+make deps
+
+🧪 Usage
+
+Build and run the project using:
+
+make run
+
+✅ Testing
+
+Queue uses a basic unit-testing framework.
+
+To run the tests:
+
+make test
+
+📬 Contributions
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
